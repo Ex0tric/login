@@ -2,7 +2,8 @@ import './App.css';
 import Login from './Components/Login';
 import SuperAdmin from './Components/SuperAdminDashboard';
 import Partner from './Components/PartnerDashboard';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
 // import { useReducer } from 'react';
 
   // reducer( state, action){
